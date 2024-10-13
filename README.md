@@ -1,3 +1,3 @@
 # Amazon---JavaScript
 
-its clone of amazon completely build use of javascript for all functionality and just used html, css for frontend this project meets functionalities like product adding, order tracking
+its clone of amazon completely build use of javascript for all functionality and just used html, css for frontend this project meets functionalities like product adding, order tracking. it covers all the functionalities of javascript 
